@@ -4,8 +4,11 @@ This project is analysing the housing market of market with a given scenario and
 Dataset: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork/labs/boston_housing.csv
 
 The following describes the dataset variables:
+
 ·      CRIM - per capita crime rate by town
+
 ·      ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
+
 ·      INDUS - proportion of non-retail business acres per town.
 ·      CHAS - Charles River dummy variable (1 if tract bounds river; 0 otherwise)
 ·      NOX - nitric oxides concentration (parts per 10 million)
